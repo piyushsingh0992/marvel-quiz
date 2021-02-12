@@ -1,0 +1,9 @@
+.final_score {
+  margin: 2vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 60%;
+  position: relative;
+}
